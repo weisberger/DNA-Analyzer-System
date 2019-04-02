@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.12)
+project(untitled3)
+
+set(CMAKE_CXX_STANDARD 98)
+
+add_executable(untitled3 main.cpp Controller/dna.h Controller/dna.cpp Controller/DnaWriter.h Controller/DnaWriter.cpp Controller/DnaRead.cpp Controller/DnaRead.h Model/DnaData.cpp Model/DnaData.h UserInterface.cpp UserInterface.h View/CommandLine.cpp View/CommandLine.h Controller/Controller.cpp Controller/Controller.h Controller/DnaMetaData.cpp Controller/DnaMetaData.h Controller/Parser.cpp Controller/Parser.h Controller/FactoryCommand.cpp Controller/FactoryCommand.h Controller/Icommand.cpp Controller/Icommand.h Controller/New.cpp Controller/New.h Controller/Dup.cpp Controller/Dup.h Controller/Save.cpp Controller/Save.h Controller/IDna.cpp Controller/IDna.h Controller/load.cpp Controller/load.h Controller/Show.cpp Controller/Show.h Controller/Quit.cpp Controller/Quit.h Controller/List.cpp Controller/List.h Controller/Pair.cpp Controller/Pair.h Controller/SliceDecoratir.cpp Controller/SliceDecoratir.h Controller/Slice.cpp Controller/Slice.h Controller/Necleotid.cpp Controller/Necleotid.h Controller/PairDecorator.cpp Controller/PairDecorator.h Controller/SharedPointer.h)

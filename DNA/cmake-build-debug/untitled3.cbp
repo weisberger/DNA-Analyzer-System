@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="untitled3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled3">
+				<Option output="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/cmake-build-debug/untitled3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled3"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled3/fast">
+				<Option output="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/cmake-build-debug/untitled3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled3/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/Controller.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/Controller.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/DnaMetaData.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/DnaMetaData.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/DnaRead.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/DnaRead.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/DnaWriter.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/DnaWriter.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/Dup.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/Dup.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/FactoryCommand.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/FactoryCommand.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/IDna.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/IDna.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/Icommand.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/Icommand.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/List.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/List.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/Necleotid.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/Necleotid.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/New.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/New.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/Pair.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/Pair.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/PairDecorator.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/PairDecorator.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/Parser.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/Parser.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/Quit.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/Quit.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/Save.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/Save.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/SharedPointer.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/Show.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/Show.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/Slice.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/Slice.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/SliceDecoratir.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/SliceDecoratir.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/dna.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/dna.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/load.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Controller/load.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Model/DnaData.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/Model/DnaData.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/UserInterface.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/UserInterface.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/View/CommandLine.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/View/CommandLine.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/main.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

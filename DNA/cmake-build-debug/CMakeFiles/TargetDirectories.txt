@@ -1,0 +1,3 @@
+/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wiseberg/Desktop/EXELLENTEAM/excellenteam-ella-c-dna-weisberger/DNA/cmake-build-debug/CMakeFiles/untitled3.dir
